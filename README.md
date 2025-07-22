@@ -2,14 +2,14 @@
 A trading algorithm strategy that uses momentum, SMAs, Mean reversion, a kill switch based on Volatility, dynamic position sizing and realistic fees and slippage. 
 
 
-## 🚀 Key Features
+## Key Features
 
 - SMA and mean-reversion strategy switching via volatility + momentum
 - Kill switch to mitigate catastrophic drawdowns
 - Dynamic position sizing based on recent volatility
 - Risk management with slippage and fees
 
-### 🚀 Top Backtest Results  (Adaptive Kill Switch)
+### Top Backtest Results  (Adaptive Kill Switch)
 
 All results assume a starting capital of **$10,000**, with realistic transaction costs (0.15%) and 5% capital allocation per trade.
 
