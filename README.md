@@ -48,7 +48,8 @@ The algorithm exited early and protected capital, turning a disaster into a mode
   **Final Portfolio: $39,916.22 - a +299% gain.**   
 
   **Buy & Hold: $7,513.87**
-    **Sharpe Ratio:** 0.91 **Sortino Ratio:** 0.73
+  
+  **Sharpe Ratio:** 0.91 **Sortino Ratio:** 0.73
 
 Smart entries and exits let the algorithm thrive in volatile recovery cycles.
   
